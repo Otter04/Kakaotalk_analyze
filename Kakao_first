@@ -1,6 +1,5 @@
 print("KaKaotalk analyze projecct")
 i=0
 for i in range(0,20):
-    if i<=20:
-        print("My name! ")
-
+    if i<=10:
+        print("My name! "*i)
