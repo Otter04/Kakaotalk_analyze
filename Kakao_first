@@ -3,3 +3,6 @@ i=0
 for i in range(0,20):
     if i<=10:
         print("My name! "*i)
+
+for i in range(10):
+    print(i*"*")
